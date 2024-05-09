@@ -4,7 +4,7 @@ Hi 👋! My name is Tanvi and I'm a pre-final CSE student at Chitkara University
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanvi-sharma-908b39231) 
-[![LeetCode](https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256?logo=linkedin&logoColor=white)](https://leetcode.com/u/tanvi2104/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/tanvi2104/) 
 
 
 # 💻 Tech Stack:
