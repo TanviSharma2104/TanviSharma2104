@@ -17,3 +17,4 @@ Hi 👋! My name is Tanvi and I'm a pre-final CSE student at Chitkara University
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TanviSharma2104&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TanviSharma2104&label=Profile%20views&color=0e75b6&style=flat" alt="Tanvi Sharma" /> </p>
